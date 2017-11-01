@@ -1,0 +1,40 @@
+<resources>
+
+
+    <string name="app_name">CrytocurrenVerter</string>
+    <string name="nav_btc">BTC Currency</string>
+    <string name="nav_eth">ETC Currency</string>
+    <string name="foot">Your New Crytocurrency Converter</string>
+
+    <!-- Base Currencies -->
+    <string name="c1">US Dollar</string>
+    <string name="c2">Naira</string>
+    <string name="c3">Yen</string>
+    <string name="c4">British Pound</string>
+    <string name="c5">Euro</string>
+    <string name="c6">Ghanaian Cedi</string>
+    <string name="c7">SA Rand</string>
+    <string name="c8">Canadian Dollar</string>
+    <string name="c9">Indian Rupee</string>
+    <string name="c10">Russian Ruble </string>
+    <string name="c11">Colombian Peso</string>
+    <string name="c12">NZ Dollar</string>
+    <string name="c13">Swiss Francs</string>
+    <string name="c14">Hong Kong Dollar</string>
+    <string name="c15">Mexican Peso</string>
+    <string name="c16">Brazilian Real</string>
+    <string name="c17">Chinese Yuan</string>
+    <string name="c18">SKorean Won</string>
+    <string name="c19">Singapore Dollar</string>
+    <string name="c20">Norwegian Krone</string>
+
+
+    <string name="disclaimer">The images shown in this application are owned by their respective owners. The exchange rates are gotten from CryptoCompare API, BitSquare and CoinGuecko and may be subject to fluctuations</string>
+    <string name="cp">©Iniobong Benson</string>
+    <string name="ab">This is a crypo currency conversion app, it converts both btc and eth currencies into base currencies
+                        </string>
+
+    <string name="title_b">BTC</string>
+    <string name="title_e">ETC</string>
+
+</resources>

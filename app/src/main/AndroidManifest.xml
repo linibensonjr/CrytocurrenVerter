@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bdevelop.lini.crytocurrenverter" >
+
+    <uses-permission
+        android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".MainActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+       <activity android:name=".calngn">
+              <intent-filter>
+                  <action android:name="android.intent.action.DEFAULT" />
+              </intent-filter>
+          </activity>
+
+    <activity android:name=".AboutActivity" />
+
+    <activity android:name=".BraReal"/>
+
+    <activity android:name=".C_Peso"/>
+
+    <activity android:name=".CanDollar"/>
+
+    <activity android:name=".Cedee"/>
+
+    <activity android:name=".Chinese_R"/>
+
+    <activity android:name=".Euro"/>
+
+    <activity android:name=".HKDollar"/>
+
+    <activity android:name=".MexPeso"/>
+
+    <activity android:name=".NewZDollar"/>
+
+    <activity android:name=".NorKrone"/>
+
+    <activity android:name=".Pound"/>
+
+    <activity android:name=".Rand"/>
+
+    <activity android:name=".Rupee"/>
+
+    <activity android:name=".Rushruble"/>
+
+    <activity android:name=".SFranc"/>
+
+    <activity android:name=".SingDollar"/>
+
+    <activity android:name=".SKWon"/>
+
+    <activity android:name=".USDollar"/>
+
+    <activity android:name=".Yen"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.C_Peso"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.CanDollar"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Cedee"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Chinese_R"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Euro"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.HKDollar"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.MexPeso"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.BraReal"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Naira"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.NewZDollar"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.NorKrone"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Pound"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Rand"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Rupee"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Rushruble"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.SFranc"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.SingDollar"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.SKWon"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.USDollar"/>
+
+    <activity android:name="com.bdevelop.lini.crytocurrenverter.eth.Yen"/>
+
+
+</application>
+
+</manifest>
